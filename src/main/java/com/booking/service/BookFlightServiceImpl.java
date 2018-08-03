@@ -13,7 +13,6 @@ import org.springframework.stereotype.Service;
 import com.booking.dao.BookFlightDao;
 import com.booking.domain.BookFlightDomain;
 import com.booking.domain.ReturnBookFlight;
-import com.booking.domain.UpdateBooking;
 import com.booking.model.BookFlightModel;
 import com.booking.utils.CommonUtils;
 import com.booking.utils.Response;

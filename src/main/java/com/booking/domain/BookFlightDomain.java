@@ -27,13 +27,7 @@ public class BookFlightDomain {
 	private String ticketNo;
 	private String selectAirport;
 	private String status;
-	
-	
-	
-	
-	
-	
-	
+
 	
 	public int getAmount() {
 		return amount;
